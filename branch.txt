@@ -1,1 +1,3 @@
-Arquivo novo na branch
+Arquivo novo na branch  
+
+atividade gerencia de configuracao

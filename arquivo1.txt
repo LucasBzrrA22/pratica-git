@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Atividade de gerencia de configuracao
 
 
+=======
+Arquivo 1
+
+
+Atividade gerencia de configuração 
+>>>>>>> ba0d4bec03ceca572e978b6f332b8924186232e7
